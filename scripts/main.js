@@ -1,2 +1,2 @@
-StatusEffects.boss.healthMultiplier = 20;
-StatusEffects.boss.damageMultiplier = 7;
+StatusEffects.boss.healthMultiplier = 10;
+StatusEffects.boss.damageMultiplier = 2;
